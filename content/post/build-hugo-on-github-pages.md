@@ -4,8 +4,6 @@ date = 2026-01-05T21:32:11+08:00
 draft = false
 +++
 
-# Build Hugo on Github Pages
-
 ## Install Hugo
 
 Best to install the latest hugo_extended version, or you may easily run into problems.
